@@ -1,0 +1,9 @@
+﻿  сombinatorial semigroup theory.cpp
+D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\сombinatorial semigroup theory\сombinatorial semigroup theory.cpp(63,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\сombinatorial semigroup theory\сombinatorial semigroup theory.cpp(234,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\сombinatorial semigroup theory\сombinatorial semigroup theory.cpp(264,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\сombinatorial semigroup theory\сombinatorial semigroup theory.cpp(322,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\сombinatorial semigroup theory\сombinatorial semigroup theory.cpp(324,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\сombinatorial semigroup theory\сombinatorial semigroup theory.cpp(365,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\сombinatorial semigroup theory\сombinatorial semigroup theory.cpp(17): warning C4715: Find1: значение возвращается не при всех путях выполнения
+  сombinatorial semigroup theory.vcxproj -> D:\СГУ\Прикладная универсальная алгебра\Лабораторная №4\сombinatorial semigroup theory\x64\Debug\сombinatorial semigroup theory.exe
